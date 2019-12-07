@@ -1,2 +1,0 @@
-(this["webpackJsonpmmenschig.github.io"]=this["webpackJsonpmmenschig.github.io"]||[]).push([[0],{3:function(e,t,n){e.exports=n(8)},8:function(e,t,n){"use strict";n.r(t);var c=n(0),i=n.n(c),s=n(2);var o=function(){return i.a.createElement("div",{className:"App"},"Test content")};n.n(s).a.render(i.a.createElement(o,null),document.getElementById("root"))}},[[3,1,2]]]);
-//# sourceMappingURL=main.eae9324d.chunk.js.map
