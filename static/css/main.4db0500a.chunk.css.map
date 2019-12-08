@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css","Navbar.css"],"names":[],"mappings":"AAAA,EACE,QAAS,CACT,SACF,CCFA,kBACE,UAAW,CACX,oBACF,CAEA,OACE,cAAe,CACf,YACF","file":"main.4db0500a.chunk.css","sourcesContent":["* {\n  margin: 0;\n  padding: 0;\n}","\n.navbar-container {\n  width: 100%;\n  border: 1px solid red;\n}\n\n.brand {\n  font-size: 36px;\n  color: purple;\n}\n"]}
