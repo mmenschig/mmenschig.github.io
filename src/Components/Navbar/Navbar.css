@@ -1,0 +1,10 @@
+
+.navbar-container {
+  width: 100%;
+  border: 1px solid red;
+}
+
+.brand {
+  font-size: 36px;
+  color: purple;
+}
